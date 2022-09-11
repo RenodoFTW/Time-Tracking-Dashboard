@@ -1,0 +1,150 @@
+body
+{
+    background-color: hsl(226, 43%, 10%);
+}
+
+.profilebox
+{
+    height: 25rem;
+    width: 18rem;
+    background-color: #5746EA;
+    color: white;
+}
+
+.jeremyimg
+{
+    width: 100px; 
+    height: 100px; 
+    border-style: solid; 
+    border-color: white; 
+    border-radius: 100px; 
+    margin-top: 50px;
+}
+
+.reportbox
+{
+    margin-top: 25px;
+    opacity: 75%;
+}
+
+.holder
+{
+    height: 9rem;
+    width: 18rem;
+    background-color: #1D204B;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.listelement1
+{
+    font-size: 20px;
+    color: white;
+    opacity: 50%;
+}
+
+.listelement1:hover
+{
+    color: white;
+    opacity:100%;
+}
+
+.listelement2
+{
+    font-size: 20px;
+    color: white;
+}
+
+.listelement2:hover
+{
+    color:white;
+    opacity:100%;
+}
+
+.listelement3
+{
+    font-size: 20px;
+    color: white;
+    opacity: 50%;
+}
+
+.listelement3:hover
+{
+    color:white;
+    opacity:100%;
+}
+
+.content
+{
+    width: 18rem;
+    background-color: #1D204B;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: 20px;
+}
+
+.workimgbox
+{
+    background-color: hsl(15, 100%, 70%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.img
+{
+    width: 75px; 
+    height: 75px;
+    margin-left: 200px;
+}
+
+.header
+{
+    font-size: 15px;
+}
+
+.ellimg
+{
+    height:5px
+}
+
+.prev
+{
+    font-size: 15px;
+    opacity: 50%;
+}
+
+.eximgbox
+{
+    background-color: hsl(145, 58%, 55%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.playimgbox
+{
+    background-color: hsl(195, 74%, 62%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.socialimgbox
+{
+    background-color: hsl(264, 64%, 52%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.studyimgbox
+{
+    background-color: hsl(348, 100%, 68%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.careimgbox
+{
+    background-color: hsl(43, 84%, 65%);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
